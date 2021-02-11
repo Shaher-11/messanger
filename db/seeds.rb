@@ -6,4 +6,4 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 User.create(email: 'shahershamroukh@gmail.com', password: 'password')
-User.create(email: 'anotheruser@test.com', password: 'paassword')
+User.create(email: 'anotheruser@test.com', password: 'password')
